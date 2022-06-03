@@ -21,7 +21,7 @@
 - IntelliJ IDEA
 - Projects are built using Java & Java Swing and are developed using IDEA
 - Developed user interface using Java Swing GUI and modules using  MVC design pattern
-<img src="../images/2048.png" width="600" height="330">
+<img src="../images/2048.png" width="900" height="495">
 
 
 
