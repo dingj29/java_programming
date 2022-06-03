@@ -1,4 +1,4 @@
-# Java 
+# Java Programming
 
 ## Personal Infos
 - Name: Jianlan Ding
