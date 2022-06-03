@@ -23,6 +23,6 @@
 - IntelliJ IDEA
 - MinGW 64-bits
 - Projects are built using Java & Java Swing and are developed using IDEA
-<img src="./images/demo.png" width="600" height="330">
+<img src="./images/demo.png" width="900" height="495">
 
 
