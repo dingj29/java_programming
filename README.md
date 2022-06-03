@@ -6,7 +6,7 @@
 - user dingj29
 ## About projects
 - Projects are built using Java & Java Swing and are developed using IDEA
-<img src="./images/java_demo.png" width="600" height="400">
+<img src="./images/java_demo.jpg" width="600" height="400">
 
 
 
